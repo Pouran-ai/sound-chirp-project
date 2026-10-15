@@ -7,7 +7,7 @@ First, install the required libraries:
 
 pip install -r requirements.txt
 
-## Project File
+## Project FileS
 - "make_wav.py" - Chirp sound generator(frequency from 200 to 1000 Hz)
 - "makemusic_wav.py" - Piano melody generator
 - "happy_birthday.py" - Happy Birthday song player
