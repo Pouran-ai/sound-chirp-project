@@ -12,6 +12,7 @@ pip install -r requirements.txt
 - "makemusic_wav.py" - Piano melody generator
 - "happy_birthday.py" - Happy Birthday song player
 - "sound_player.py" - Long audio file player (streaming)
+- "sound_player_lite.py" - Long audio file player (streaming, without NumPy)
 
 ## How to Run
 
@@ -23,9 +24,15 @@ or
 
 python makemusic_wav.py
 
-To play a long audio file:
+To play a long audio file with NumPy:
 
 python sound_player.py FILENAME.wav
+
+To play a long audio file without NumPy:
+
+python sound_player_lite.py FILENAME.wav
+
+
 
 ## Technologies
 
