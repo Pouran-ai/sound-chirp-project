@@ -13,6 +13,7 @@ pip install -r requirements.txt
 - "happy_birthday.py" - Happy Birthday song player
 - "sound_player.py" - Long audio file player (streaming)
 - "sound_player_lite.py" - Long audio file player (streaming, without NumPy)
+-  "play_web_stream.py" - Stream audio from a URL using FFmpeg
 
 ## How to Run
 
