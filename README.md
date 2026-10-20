@@ -41,4 +41,4 @@ python sound_player_lite.py FILENAME.wav
 - NumPy
 - SoundFile
 - SoundDevice
-
+*Last updated: Today*
